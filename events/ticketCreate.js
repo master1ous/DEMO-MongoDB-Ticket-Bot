@@ -1,8 +1,4 @@
-/* | TICKET CODE - PREMIUM ACCESS | */
-/* |    TicketerCrasher - Source Code   | */
-/* |      Coded by discord.gg/azury     | */
-/* |  Advanced Ticket Bot using MongoDB | */
-/* | TICKET CODE - PREMIUM ACCESS | */
+
 const {
   MessageEmbed,
   Collection
